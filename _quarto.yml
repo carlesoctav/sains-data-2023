@@ -1,0 +1,18 @@
+project:
+  type: website
+  output-dir: _docs
+
+website:
+  title: "sains-data-2023"
+  sidebar:
+    - section: main-module.qmd
+      contents: main-module/*
+
+format:
+  html:
+    theme: litera
+    css: styles.css
+    toc: true
+
+
+

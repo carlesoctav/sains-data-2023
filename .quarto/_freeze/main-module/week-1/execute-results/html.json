@@ -1,0 +1,11 @@
+{
+  "hash": "21836b2e60ddf0a35d0cddcda49a744d",
+  "result": {
+    "markdown": "# minggu 01\n\n::: {.cell execution_count=1}\n``` {.python .cell-code}\nprint(\"Hello World\")\n```\n\n::: {.cell-output .cell-output-stdout}\n```\nHello World\n```\n:::\n:::\n\n\n",
+    "supporting": [
+      "week-1_files"
+    ],
+    "filters": [],
+    "includes": {}
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "index.qmd": {
+    "index.html": "721ef644"
+  },
+  "about.qmd": {
+    "about.html": "871a3380"
+  },
+  "missing-semester/week-1.qmd": {
+    "week-1.html": "7bc45ebd"
+  },
+  "main-module/week-1.qmd": {
+    "week-1.html": "d37a1de9"
+  },
+  "main-module/carles.ipynb": {
+    "carles.html": "5d8bd512"
+  },
+  "main-module/main-module.qmd": {
+    "main-module.html": "d5c1ae66"
+  },
+  "main-module/week-01.ipynb": {
+    "week-01.html": "8602be98"
+  }
+}
