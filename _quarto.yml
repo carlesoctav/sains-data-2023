@@ -5,8 +5,14 @@ project:
 website:
   title: "sains-data-2023"
   sidebar:
-    - section: main-module.qmd
-      contents: main-module/*
+    contents: main-module/*
+    
+
+  navbar:
+    right: 
+      - icon: github
+        href: https://github.com/carlesoctav/sains-data-2023
+      
 
 format:
   html:
