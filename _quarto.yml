@@ -14,6 +14,9 @@ website:
         href: https://github.com/carlesoctav/sains-data-2023
       - icon: twitter
         href: https://twitter.com/carlesoctav
+    left:
+      - text: pdnum
+        href: https://carlesoctav.github.io/pdnum-2023/
       
 
 format:
