@@ -235,8 +235,6 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <p>Pada modul ini kita akan mempelajari beberapa cara untuk membuat visualisasi data menggunakan package Matplotlib dan Seaborn. Seaborn merupakan salah satu package visualisasi data yang sangat sering digunakan karena fleksibilitas dan banyaknya jenis plot yang disediakan.</p>
 <section id="prerequisites" class="level2">
 <h2 class="anchored" data-anchor-id="prerequisites">Prerequisites</h2>
-<p>dataset yang diguankan pada minggu ini dapat di download melalui link berikut:</p>
-<p><a href="https://drive.google.com/drive/folders/1wSYOFJrEac_fzutCxpVV96PsqhgvadIs?usp=sharing">https://drive.google.com/drive/folders/1wSYOFJrEac_fzutCxpVV96PsqhgvadIs?usp=sharing</a></p>
 <section id="import-module" class="level3">
 <h3 class="anchored" data-anchor-id="import-module">Import Module</h3>
 <p>Sebelum memulai, mari kita import terlebih dahulu module - module yang diperlukan.</p>
@@ -249,7 +247,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
 <section id="import-data" class="level3">
 <h3 class="anchored" data-anchor-id="import-data">Import Data</h3>
 <p>Pada module kali ini, akan digunakan tiga data csv yang berbeda untuk mempermudah kebutuhan visualisasi.</p>
-<p>Ketiga data tersebut dapat kalian unduh pada tautan berikut: https://bit.ly/DataWeek2</p>
+<p>Ketiga data tersebut dapat kalian unduh pada tautan berikut: <a href="https://bit.ly/DataWeek2">https://bit.ly/DataWeek2</a></p>
 <div class="cell" data-execution_count="3">
 <div class="sourceCode cell-code" id="cb2"><pre class="sourceCode python code-with-copy"><code class="sourceCode python"><span id="cb2-1"><a href="#cb2-1" aria-hidden="true" tabindex="-1"></a>spotify_df <span class="op">=</span> pd.read_csv(<span class="st">'data/week 2/spotify.csv'</span>, index_col<span class="op">=</span><span class="st">'Date'</span>, parse_dates<span class="op">=</span>[<span class="st">'Date'</span>])</span>
 <span id="cb2-2"><a href="#cb2-2" aria-hidden="true" tabindex="-1"></a>flight_df <span class="op">=</span> pd.read_csv(<span class="st">'data/week 2/flight_delays.csv'</span>)</span>
