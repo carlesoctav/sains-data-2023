@@ -214,9 +214,7 @@ code span.wa { color: #60a0b0; font-weight: bold; font-style: italic; } /* Warni
   <li><a href="#bar-plot" id="toc-bar-plot" class="nav-link" data-scroll-target="#bar-plot">Bar Plot</a></li>
   <li><a href="#heatmap" id="toc-heatmap" class="nav-link" data-scroll-target="#heatmap">Heatmap</a></li>
   <li><a href="#scatter-plot" id="toc-scatter-plot" class="nav-link" data-scroll-target="#scatter-plot">Scatter Plot</a></li>
-  </ul></li>
-  <li><a href="#box-plot-dan-swarm-plot" id="toc-box-plot-dan-swarm-plot" class="nav-link" data-scroll-target="#box-plot-dan-swarm-plot">Box Plot dan Swarm Plot</a>
-  <ul class="collapse">
+  <li><a href="#box-plot-dan-swarm-plot" id="toc-box-plot-dan-swarm-plot" class="nav-link" data-scroll-target="#box-plot-dan-swarm-plot">Box Plot dan Swarm Plot</a></li>
   <li><a href="#histogram-dan-density-plot" id="toc-histogram-dan-density-plot" class="nav-link" data-scroll-target="#histogram-dan-density-plot">Histogram dan Density Plot</a></li>
   <li><a href="#joint-plot" id="toc-joint-plot" class="nav-link" data-scroll-target="#joint-plot">Joint Plot</a></li>
   </ul></li>
@@ -1445,9 +1443,8 @@ dtype: float64</code></pre>
 </div>
 </div>
 </section>
-</section>
-<section id="box-plot-dan-swarm-plot" class="level2">
-<h2 class="anchored" data-anchor-id="box-plot-dan-swarm-plot">Box Plot dan Swarm Plot</h2>
+<section id="box-plot-dan-swarm-plot" class="level3">
+<h3 class="anchored" data-anchor-id="box-plot-dan-swarm-plot">Box Plot dan Swarm Plot</h3>
 <p>Box plot dan swarm plot biasa digunakan untuk melihat keterkaitan antara data kategorik dan data numerik. Swarm plot biasa disebut sebagai “categorical scatter plot”, karena plot yang dihasilkan mirip seperti scatter plot, tetapi untuk data kategorik.</p>
 <p>Untuk menggunakan box plot pada seaborn kita dapat menggunakan <code>sns.boxplot()</code>.</p>
 <p>Untuk menggunakan swarm plot pada seaborn kita dapat menggunakan <code>sns.swarmplot()</code>.</p>
@@ -1472,6 +1469,7 @@ dtype: float64</code></pre>
 </div>
 <p>Pada box plot, terdapat dua istilah yang umum digunakan, yaitu “box” dan “whiskers”. Pada box plot di atas, “box” merupakan persegi panjang berwarna biru dan orange. Garis di tengah box merupakan nilai mediannya, serta garis bawah dan garis atas box merupakan kuartil bawah (Q1) dan kuartil atas (Q3) secara berurutan. “Whiskers” adalah garis yang merupakan perpanjangan dari box. Ujung dari whiskers atas adalah Q3 + (1.5 x IQR) data, sedangkan ujung whiskers bawah adalah Q1 - (1.5 x IQR) data.</p>
 <p>Titik di luar box dan whiskers tersebut adalah titik yang biasa dijadikan sebagai outlier (penentuan outlier diserahkan ke diri masing-masing, apakah hanya dengan melihat box plot atau dengan menggunakan metode lain, tetapi untuk mempermudah dapat menggunakan box plot).</p>
+</section>
 <section id="histogram-dan-density-plot" class="level3">
 <h3 class="anchored" data-anchor-id="histogram-dan-density-plot">Histogram dan Density Plot</h3>
 <p>Selain box plot dan swarm plot, kita juga dapat melihat persebaran data menggunakan histogram dan density plot. Histogram biasa digunakan untuk melihat persebaran data secara diskrit, sedangkan density plot untuk melihat persebaran data secara kontinu.</p>
