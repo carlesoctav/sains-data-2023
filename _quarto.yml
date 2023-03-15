@@ -17,6 +17,10 @@ website:
     left:
       - text: pdnum
         href: https://carlesoctav.github.io/pdnum-2023/
+
+  comments:
+    giscus:
+      repo: carlesoctav/sains-data-2023
       
 
 format:
