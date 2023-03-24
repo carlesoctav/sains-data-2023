@@ -5,7 +5,13 @@ project:
 website:
   title: "sains-data-2023"
   sidebar:
-    contents: main-module/*
+    contents:
+      - section: module
+        contents: main-module/*
+      - section: tugas
+        contents: tugas/*
+
+
     
 
   navbar:
