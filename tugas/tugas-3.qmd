@@ -12,7 +12,7 @@ menggunakan jupyter untuk mengerjakan tugas ini.
     * beberapa model dalam format .pkl. Penamaan untuk model dibebaskan, namun harus jelas mengenai model apa yang disimpan.
     * satu file python notebook (file berbentuk .ipynb BUKAN .py) dengan ketentuan serupa.
 
-5. Semua file disatukan dalam 1 (satu) file .zip, dengan format penamaan: Nama_NPM_Kelas SIAK Sains Data_Tugas1PrakSainsData.zip.
+5. Semua file disatukan dalam 1 (satu) file .zip, dengan format penamaan: Nama_NPM_Kelas SIAK Sains Data_Tugas3PrakSainsData.zip.
 contoh: Itadori-Yuji_190688675_A_Tugas3PrakSainsData.zip
 
 
@@ -35,7 +35,7 @@ PERINGATAN bagi semua pihak yang terlibat plagiarisme dalam tugas ini.
 
 \[akses-data\]: [https://drive.google.com/open?id=19WogXg2YgH7tNhAXESJ7SaITOWGGu2HX&authuser=carlesoctavianus%40gmail.com&usp=drive_fs](https://drive.google.com/open?id=19WogXg2YgH7tNhAXESJ7SaITOWGGu2HX&authuser=carlesoctavianus%40gmail.com&usp=drive_fs)
 
-Kerjakan secara end-to-end (pembersihan data, transformasi data , EDA, dan pemodelan)  untuk memprediksi harga rumah berdasarkan data yang diberikan. Gunakan metode yang telah dipelajari di praktikum ataupun kelas (model Klasifikasi).
+Kerjakan secara end-to-end (pembersihan data, transformasi data , EDA, dan pemodelan)  untuk mengklasifikasikan harga ponsel berdasarkan data yang diberikan. Gunakan metode yang telah dipelajari di praktikum ataupun kelas (model Klasifikasi).
 
 
 

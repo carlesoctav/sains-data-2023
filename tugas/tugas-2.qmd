@@ -12,7 +12,7 @@ menggunakan jupyter untuk mengerjakan tugas ini.
     * beberapa model dalam format .pkl. Penamaan untuk model dibebaskan, namun harus jelas mengenai model apa yang disimpan.
     * satu file python notebook (file berbentuk .ipynb BUKAN .py) dengan ketentuan serupa.
 
-5. Semua file disatukan dalam 1 (satu) file .zip, dengan format penamaan: Nama_NPM_Kelas SIAK Sains Data_Tugas1PrakSainsData.zip.
+5. Semua file disatukan dalam 1 (satu) file .zip, dengan format penamaan: Nama_NPM_Kelas SIAK Sains Data_Tugas2PrakSainsData.zip.
 contoh: Itadori-Yuji_190688675_A_Tugas2PrakSainsData.zip
 
 
