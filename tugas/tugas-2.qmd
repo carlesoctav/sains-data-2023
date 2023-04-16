@@ -16,7 +16,7 @@ menggunakan jupyter untuk mengerjakan tugas ini.
 contoh: Itadori-Yuji_190688675_A_Tugas2PrakSainsData.zip
 
 
-6. Batas pengumpulan tugas ini adalah Kamis,  16 April 2023 pukul 23.59. Tugas dikumpulkan sesuai dengan link berikut: [https://ristek.link/tugas-sains-data-02](https://ristek.link/tugas-sains-data-02)
+6. Batas pengumpulan tugas ini adalah 21  April 2023 pukul 23.59. Tugas dikumpulkan sesuai dengan link berikut: [https://ristek.link/tugas-sains-data-02](https://ristek.link/tugas-sains-data-02)
 
 
 7. Dilarang melakukan **plagiarisme** atau menduplikasi dalam mengerjakan tugas ini.
